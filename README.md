@@ -42,9 +42,7 @@ Throughout these assignments, I have gained valuable skills in:
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](link)
-- **Twitter:** [Your Twitter Handle](link)
-- **Email:** [Your Email Address]
+- **LinkedIn:** 
 
 ---
 
